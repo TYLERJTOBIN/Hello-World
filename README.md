@@ -1,10 +1,10 @@
 # Hello-World
-My clone repository
+**My clone repository** 
 
-**bold text** Project title
-**italicized text** Description 
-> blockquote How to run the program 
+# Project title
+*Description*
+> How to run the program 
 - Files Used
-- Additional Doccumentation 
+- Additional Documentation 
 - Versioning
 
